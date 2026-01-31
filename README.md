@@ -103,3 +103,9 @@ disable all setting under POWER SAVING SETTINGS
 and disable Network Direct and Task Offload in GLOBAL SETTINGS 
 
 // THEN RESTART
+
+Go to Group Policy Editor > Local Computer Policy > Administrative Templates > Network > QoS Packet Scheduler > CLick on Limit Reversable Bandwidth, Enable it and set it to 0% in "Bandwidth Limit %"
+
+// THEN RESTART AGAIN
+
+/// THATS ALL THE TWEAKS THIS WILL BE UPDATED WITH ANYTHING NEW OR SOMTHING I FIND THAT I START USING DAILY
